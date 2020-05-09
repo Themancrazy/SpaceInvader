@@ -8,5 +8,4 @@ It was build in C++ using Ncurses (ASCII art), it had to be completed in __under
 
 ## Game Screenshots
 
-![Screenshot](images/Screen1.png)
 ![Screenshot](images/Screen2.png)
